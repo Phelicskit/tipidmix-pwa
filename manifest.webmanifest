@@ -1,0 +1,17 @@
+{
+  "name": "TipidMix — Concrete Calculator PH",
+  "short_name": "TipidMix",
+  "description": "Tamang timpla: DPWH Item 405 concrete calculator — sako, buhangin, graba, tubig, kada batch. Offline, libre.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#263238",
+  "theme_color": "#263238",
+  "lang": "tl",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
